@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Calendar
 //
-//  Created by George Kakarlis on 17/9/21.
+//  
 //
 import EventKitUI
 import EventKit
